@@ -1,0 +1,8 @@
+{
+    "name": "pkurg/pinwheel-tailwind-theme",
+    "type": "october-theme",
+    "description": "Pinwheel is a highly customizable multipurpose SaaS theme built with TailwindCSS.",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}

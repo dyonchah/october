@@ -1,0 +1,9 @@
+name: Pinwheel
+description: 'Pinwheel is a highly customizable multipurpose SaaS theme built with TailwindCSS.'
+author: Vladimir
+homepage: 'https://github.com/themefisher/pinwheel-tailwind'
+authorCode: Pkurg
+code: pinwheel-tailwind
+parent: ''
+database: '0'
+form: fields.yaml

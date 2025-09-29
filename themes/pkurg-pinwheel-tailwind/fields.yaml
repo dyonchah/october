@@ -1,0 +1,19 @@
+fields:
+    canvas_styles:                    
+        label: Styles
+        type: textarea
+        default: >
+            '{{'assets/plugins/swiper/swiper-bundle.css' | theme}}',
+            '{{'assets/plugins/font-awesome/v6/brands.css' | theme }}',
+            '{{'assets/plugins/font-awesome/v6/solid.css' | theme }}',
+            '{{'assets/plugins/font-awesome/v6/fontawesome.css' | theme }}',
+            '{{'assets/styles/main.css' | theme }}',
+            '{{'assets/styles/b5b.css' | theme }}'
+
+    canvas_scripts:            
+        label: Scripts
+        type: textarea
+        default: >
+            '{{'assets/plugins/swiper/swiper-bundle.js' | theme }}',
+            '{{'assets/plugins/shufflejs/shuffle.js' | theme }}',
+            '{{'assets/scripts/main.js' | theme }}'
